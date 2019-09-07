@@ -23,3 +23,12 @@ Now you can just type **chbck** on CLI and the script will list all the images o
 - Type the image number that you want to make the wallpaper.
 
 ##### This is just for fun 🤓
+
+#### To do
+- [x] Initial code
+- [ ] Check if the directory exists
+- [ ] Check if there are any images
+- [ ] Ask for the directory
+- [ ] List only the image files
+- [ ] Enhance the invalid input check
+- [ ] Select multiple images with a chosen delay (cronjob)
