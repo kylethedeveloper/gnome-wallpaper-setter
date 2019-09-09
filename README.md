@@ -32,3 +32,7 @@ Now you can just type **chbck** on CLI and the script will list all the images o
 - [ ] List only the image files
 - [ ] Enhance the invalid input check
 - [ ] Select multiple images with a chosen delay (cronjob)
+
+# DISCLAIMER
+
+No responsibility is taken by the developer of this project for any failures on the user's system.
