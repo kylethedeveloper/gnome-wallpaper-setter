@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# DISCLAIMER:
+# No responsibility is taken by the developer of this project for any failures on the user's system.
+# -------------------------
+
 # Change this according to the wallpaper directory
 search_dir=~/Pictures/Wallpapers
 
